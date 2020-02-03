@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>小亓亓的第一个界面(qi.com)</title>
+</head>
+<body>
+ 
+<h1>我的第一个标题</h1>
+<hr>
+<!--注释-->
+<p>我的第一个段落。</p>
+<p>这是<br>我的第一个页面</p>
+<hr>
+<pre>
+    此标签
+演示
+        可以随意空行和空格    
+
+</pre>
+<hr> 
+<a href="https://www.runoob.com/" target="_blank">点击</a>
+</body>
+</html>
